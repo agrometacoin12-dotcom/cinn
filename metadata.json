@@ -1,0 +1,6 @@
+{
+  "name": "CINNETemple",
+  "description": "Premium African browser cinema streamer with Paystack checkouts, studio DRM protective watermark layers, and built-in AI UGC promo creation engines leveraging Gemini 3.5 & Veo 3 Video generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
